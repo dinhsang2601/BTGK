@@ -3,7 +3,7 @@
 ## 1. Thông tin chung
 - **Tên đề tài:** Nền tảng Du lịch Văn hóa - CultureTrail
 - **Tên trang đã thực hiện:** Trang chủ (Home Page) / Khám phá văn hóa
-- **Thực hiện bởi:** [Điền Họ và Tên của bạn] - [Điền Mã Sinh Viên]
+- **Thực hiện bởi:** Nguyễn Đình Sang-MSV:2551060678-67CNTT1
 
 ## 2. Mục đích của trang
 Trang chủ đóng vai trò là "gương mặt đại diện" của nền tảng CultureTrail. Mục đích chính của trang là thu hút, truyền cảm hứng cho người dùng thông qua giao diện trực quan, đồng thời cung cấp công cụ tìm kiếm nhanh chóng để du khách có thể tra cứu các trải nghiệm văn hóa bản địa độc đáo tại 3 miền Việt Nam.
@@ -20,6 +20,6 @@ Trang chủ đóng vai trò là "gương mặt đại diện" của nền tảng
 - **FontAwesome:** Tích hợp thư viện hiển thị icon.
 
 ## 5. Liên kết đính kèm
-- **Link Figma:** [Dán link Figma thiết kế trang của bạn vào đây]
-- **Link GitHub:** [Dán link repo GitHub cá nhân của bạn vào đây]
+- **Link Canva:** https://canva.link/9hfr0cj4wexscqz
+- **Link GitHub:** https://github.com/dinhsang2601/BTGK
 - **Link Video Trình bày:** [Dán link video YouTube/Drive báo cáo dài 3 phút của bạn vào đây]
