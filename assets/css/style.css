@@ -95,7 +95,7 @@ ul {
     position: relative;
     height: 100vh;
     min-height: 600px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../assets/images/hero-bg.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../images/hero-bg.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -433,7 +433,6 @@ ul {
     }
     .hero p {
         font-size: 0.9rem;
-        margin-bottom: 25px;
     }
 
     /* Đập vỡ Form tìm kiếm (Pill) thành 2 khối xếp dọc */
