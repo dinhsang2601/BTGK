@@ -20,6 +20,6 @@ Trang chủ đóng vai trò là "gương mặt đại diện" của nền tảng
 - **FontAwesome:** Tích hợp thư viện hiển thị icon.
 
 ## 5. Liên kết đính kèm
-- **Link Canva:** https://canva.link/9hfr0cj4wexscqz
+- **Link Figma:** https://www.figma.com/proto/qI2b9ruJOLrhzZPTAwMLpD/BTGK?node-id=0-1&t=bPPBbKjtnPm5jQ4J-1
 - **Link GitHub:** https://github.com/dinhsang2601/BTGK
 - **Link Video Trình bày:** [Dán link video YouTube/Drive báo cáo dài 3 phút của bạn vào đây]
